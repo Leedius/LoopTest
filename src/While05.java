@@ -1,2 +1,10 @@
-package PACKAGE_NAME;public class While05 {
+public class While05 {
+    public static void main(String[] args) {
+        int i=10;
+
+        while (i>=0){
+            System.out.println(i);
+            i--;
+        }
+    }
 }
