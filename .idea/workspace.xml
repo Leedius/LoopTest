@@ -5,41 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d06dcaaa-4365-42ae-ab9f-55e70f0632fe" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/While/While01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/While/While02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/While/While03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/While/While04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/While/While05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/While/While06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Ex1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Ex1_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Ex1_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Ex1_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Ex1_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Ex1_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Ex1_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Ex1_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Ex1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Ex1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Ex1_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Ex1_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Ex1_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Ex1_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Ex1_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Ex1_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Ex2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Ex2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Ex2_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Ex2_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Ex2_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forclass/For01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forclass/For02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forclass/For03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forclass/For04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forclass/For04_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/infinite/Infinite02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/infinite/InfiniteLoop01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex1_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex1_10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex1_11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex1_12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex1_13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex1_14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex1_15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex1_16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex1_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex1_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex1_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex1_5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex1_6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex1_7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex1_8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex1_9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex2_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex2_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex2_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex2_5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex2_6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/For01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/For02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/For03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/For04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/For04_01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Infinite02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InfiniteLoop01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/While01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/While02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/While03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/While04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/While05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/While06.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,30 +66,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/dev/workspace/LoopTest"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Continue01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Continue01" />
       <module name="WhileTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="WhileTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="WhileTest" />
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -111,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674115677602</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1674116772185</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674116772185</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
